@@ -1,0 +1,8 @@
+{"deportes":[
+    {"nombre":"futbol","precio":"50.000"},
+    {"nombre":"natacion","precio":"66.000"},
+    {"nombre":"bicicleta","precio":"180.000"},
+    {"nombre":"tenis","precio":"48.990"},
+    {"nombre":"gimnasio","precio":"20.000"}
+    ]
+}
